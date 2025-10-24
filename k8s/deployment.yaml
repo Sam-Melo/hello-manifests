@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: sammel0/hello-app:b778334
+          image: sammel0/hello-app:fb52eba
           ports:
             - containerPort: 8000
